@@ -6,7 +6,7 @@ powerful features. BlogShorts is designed to inspire creativity, foster communit
 engagement, and provide insightful blog management tools to both novice and
 experienced bloggers.
 
-️ Key Features
+️🔥 Key Features
 
 1. Modern Blog Editor
 ○ Utilize React Quill to craft beautiful and engaging blog posts with ease.
@@ -37,26 +37,28 @@ indicators.
 8. User Profile Customization
 ○ Users can update their username, profile photo, password, and bio to
 personalize their profiles.
-9. Category-Based Blogging
+
+10. Category-Based Blogging
 ○ Organize your blogs into categories for easier navigation and discovery by
 readers.
-10.Interactive Blogging
+
+11.Interactive Blogging
 ○ Foster engagement with comments and replies on blog posts,
 encouraging discussions and interaction.
 
-11. Real-Time Notifications
+12. Real-Time Notifications
 ○ Stay updated with instant notifications for new comments, likes, or any
 interaction related to your blogs.
 
-12.Edit Profile Option
+13.Edit Profile Option
 ○ Keep your profile fresh and up-to-date by editing social links, bio, and
 more.
 
-13.Mobile Responsive Design
+14.Mobile Responsive Design
 ○ Enjoy a seamless experience across all devices, with an intuitive design
 that adapts to mobile screens.
 
-️ Tech Stack
+💻️ Tech Stack
 ● Frontend:
 
 ○ React.js
@@ -96,7 +98,7 @@ reading habits.
 ○ A native mobile app to complement the web platform for on-the-go
 blogging and interaction.
 
-BlogShorts is a growing platform that strives to empower individuals to share their
+⚡BlogShorts is a growing platform that strives to empower individuals to share their
 stories and ideas in an intuitive, user-friendly environment. With constant improvements
 and new features, it is the perfect space for creative minds to connect, engage, and
 inspire.
