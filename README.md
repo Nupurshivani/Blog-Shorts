@@ -5,6 +5,7 @@ user experience, this platform offers seamless blogging capabilities with a vari
 powerful features. BlogShorts is designed to inspire creativity, foster community
 engagement, and provide insightful blog management tools to both novice and
 experienced bloggers.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ️🔥 Key Features
 
@@ -57,6 +58,7 @@ more.
 14.Mobile Responsive Design
 ○ Enjoy a seamless experience across all devices, with an intuitive design
 that adapts to mobile screens.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 💻️ Tech Stack
 ● Frontend:
@@ -71,6 +73,7 @@ that adapts to mobile screens.
 ○ Node.js
 ○ Express.js
 ○ MongoDB (for database storage)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 📚 Usage
 1. Sign up for an account using your Google credentials.
@@ -84,7 +87,7 @@ comments.
 6. Stay updated with real-time notifications for new interactions on your blogs.
 
 7. Enjoy seamless browsing across all devices — whether on desktop or mobile.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 🌱 Future Enhancements
 ● Comments and Replies Moderation
 ○ Introduce a moderation system for comments to avoid spam and ensure a
@@ -97,7 +100,7 @@ reading habits.
 ● Mobile App
 ○ A native mobile app to complement the web platform for on-the-go
 blogging and interaction.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ⚡BlogShorts is a growing platform that strives to empower individuals to share their
 stories and ideas in an intuitive, user-friendly environment. With constant improvements
 and new features, it is the perfect space for creative minds to connect, engage, and
